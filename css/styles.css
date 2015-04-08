@@ -2,3 +2,35 @@
 body{
 	background:#a10023;
 }
+
+h1{
+	background: yellow;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	line-height: 100px;
+	text-align: center;
+	color:white;
+}
+
+h1:hover{
+	transition:background.5s;
+	background: blue;
+	margin-top: 50px;
+}
+
+h3{
+	background: teal;
+}
+
+p{
+	background-color: cornflowerblue;
+}
+
+a{
+	background: gold;
+	width: 100px;
+	height: 100px;
+
+
+}
